@@ -2,6 +2,9 @@ openvpn Cookbook CHANGELOG
 ==========================
 This file is used to list changes made in each version of the openvpn cookbook.
 
+v2.1.99
+------
+Have iptables NAT rules change be run by default
 
 v2.1.0
 ------
